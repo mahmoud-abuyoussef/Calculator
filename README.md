@@ -1,4 +1,3 @@
-# Simple-Calculator
+# Calculator
 
-## Demo
-https://mahmoudabuyousef.github.io/Simple-Calculator/
+## [Demo Link](https://mahmoud-abuyoussef.github.io/Calculator/)
