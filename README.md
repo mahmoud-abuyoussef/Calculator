@@ -20,4 +20,4 @@
 
 **Design**
 
-![Landing Design](https://github.com/mahmoud-abuyoussef/Calculator/blob/main/design/calclator.png)
+![Landing Design](https://github.com/mahmoud-abuyoussef/Calculator/blob/main/design/calculator.png)
